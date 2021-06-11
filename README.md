@@ -20,4 +20,4 @@ Owner
 
 #### I have used the RandomForestRegressor to solve this ML problem.
 
-Credit: Krish Naik and Kaggle
+Credit: Kaggle
